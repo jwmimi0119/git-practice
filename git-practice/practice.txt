@@ -1,0 +1,5 @@
+Git Practice Log
+
+1. Created a repository.
+2. Created five files.
+3. Practiced Git commands.
